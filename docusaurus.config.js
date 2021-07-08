@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Iniciativa de @tomasoski ${new Date().getFullYear()} Creado con Docusaurus.`,
     },
   },
   presets: [

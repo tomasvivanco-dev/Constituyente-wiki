@@ -80,7 +80,7 @@ function Home() {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Hola desde ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <Head>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -96,7 +96,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Explora
             </Link>
           </div>
         </div>

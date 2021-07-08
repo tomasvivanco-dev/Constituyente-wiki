@@ -1,5 +1,5 @@
 ---
-id: mdx
+id: video1
 title: Powered by MDX
 ---
 
