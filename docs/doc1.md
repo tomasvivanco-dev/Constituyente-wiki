@@ -1,5 +1,5 @@
 ---
-id: dia1
+id: doc1
 title: Día de instalación de la Convención
 sidebar_label: Día 1
 slug: /
