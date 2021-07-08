@@ -80,7 +80,7 @@ function Home() {
 
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Hola de${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <Head>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
