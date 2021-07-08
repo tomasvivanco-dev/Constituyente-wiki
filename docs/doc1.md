@@ -1,6 +1,6 @@
 ---
 id: doc1
-title: Style Guide
+title: Instalación Convención
 sidebar_label: Instalación Convención
 slug: /
 ---
