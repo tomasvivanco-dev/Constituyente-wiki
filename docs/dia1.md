@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+id: dia1
+title: Día de instalación de la Convención
+sidebar_label: Día 1
 slug: /
 ---
 
